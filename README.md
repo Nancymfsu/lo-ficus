@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Welcome to loFicus
+This app was created as a tool to help with two issues.
+1. I struggle with time blindness and haven't been able to find a timer system that works for me. Generally if I set a timer in a browser tab - I'll quickly forget it's there or have no visibility into how much time I have left while I'm working in other tabs/windows. Having an audio cue when time is up helps, but I focus on tasks better with music playing - particularly loFi playlists. I need a tool that lets me configure timers with audio and experiment with the ways I can best tackle this problem.
+2. I'm a hands on learner. I don't absorb information by reading docs or watching videos. If I try those methods I last less than 10 minutes before my brain takes a detour and starts solving a different problem. I have to re-watch or re-read the same section multiple times to even be able to take notes on what I'm learning. This is slow, horribly inefficient, and frankly quite boring. Even existing coding courses are difficult for me because I find it hard to troubleshoot or grasp everything that's happening when using pre-made starter code. I really need to create things from scratch and break them a million different ways in order to understand why the finished code works.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I focus best when I'm learning something in order to solve a problem I'm already motivated to solve. Building something that I need gives me both the focus and motivation to learn effectively.
+
+This project was created with create-react-app, so I'm leaving a lot of the boilerplate stuff in the README for now in case I want to reference it later.
+
 
 ## Available Scripts
 
