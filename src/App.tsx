@@ -1,23 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
+import tree from './tree.svg';
 import './App.css';
+import { FaLeaf } from "react-icons/fa";
+import Timer from './components/Timer/Timer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={tree} className="App-logo" alt="logo" style={{color:"blue"}}/>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Welcome to loFicus.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Timer></Timer>
       </header>
     </div>
   );

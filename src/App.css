@@ -5,10 +5,11 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .loading-icon {
     animation: App-logo-spin infinite 20s linear;
   }
 }
